@@ -44,6 +44,9 @@ app.listen(3000, () => {
 });
 ```   
    
+   ### Tip 
+   fs module is required using nodejs or react
+   
    ## References
    [https://velog.io/@jiwon/-Nodemailer로-인증-관련-이메일-보내기-d4k4pqoot4](https://velog.io/@jiwon/-Nodemailer%EB%A1%9C-%EC%9D%B8%EC%A6%9D-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%B3%B4%EB%82%B4%EA%B8%B0-d4k4pqoot4)
 
